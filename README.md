@@ -1,7 +1,7 @@
 
-# Countdown Timer Project
+# Countdown Timer Project ⏲️
 
-This is a simple web-based countdown timer project created using HTML, CSS, and JavaScript. It's one of my first projects, aimed at helping me learn the basics of web development.
+This simple web-based countdown timer project was created using HTML, CSS, and JavaScript. It's one of my first projects, aimed at helping me learn the basics of web development.
 
 
 ## Features
